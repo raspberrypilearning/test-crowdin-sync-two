@@ -1,4 +1,4 @@
-title: default-project-template
+title: Test crowdin sync two
 hero_image: images/banner.png
 description: default-project-template description again
 version: 1
@@ -6,8 +6,8 @@ listed: false
 copyedit: false
 last_tested: "2025-01-01"
 steps:
-  - title: What you will make
-  - title: What can you do now?
+  - title: Ce que tu feras
+  - title: Que peux-tu faire maintenant?
   - title: Giga changes colour
     completion:
       - internal
