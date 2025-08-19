@@ -4,7 +4,7 @@ Create a space scene with characters 👾 that 'emote' to share their thoughts o
 
 In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-You will:
+Je zult:
 
 - Add sprites and a **backdrop** to set up your project
 - Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
@@ -13,7 +13,7 @@ You will:
 \--- no-print ---
 \--- task ---
 
-### Play ▶️
+### Toneelstuk
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
